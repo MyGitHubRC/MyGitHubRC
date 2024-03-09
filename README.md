@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MyGitHubRC
-- 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on IT tools and technology
+- 👋 Hi, I’m @RC
+- 👀 I’m interested in learning GIT
+- 🌱 I’m currently doing many mistakes
+- 💞️ I’m looking to crack this
 
 <!---
 MyGitHubRC/MyGitHubRC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
